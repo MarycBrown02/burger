@@ -1,7 +1,12 @@
+body{
+  background: rgb(255, 222, 74);
+  color: red;
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: white;
 }
 
 .label {
@@ -11,7 +16,7 @@ li {
 .create-update-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
+  background:white;
 }
 
 .form-group {
